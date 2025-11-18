@@ -1,0 +1,23 @@
+[
+    {
+        "nome": "Rafael",
+        "descricao": "Desenvolver Front-End"
+    },
+    {
+        "nome": "João",
+        "descricao": "UI/UX Design"
+    },
+    {
+        "nome": "Igor",
+        "descricao": "Banco de Dados"
+    },
+    {
+      "nome": "Juninho",
+        "descricao": "Full Stack"  
+    },
+    {
+        "nome": "Marcotti",
+        "descricao": "Professor Fiap"  
+    }
+
+]
